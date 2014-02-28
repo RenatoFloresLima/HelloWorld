@@ -3,7 +3,7 @@ public class Teste2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testando o merge om conflito");
+		System.out.println("Testando o merge sem conflito");
 
 	}
 
