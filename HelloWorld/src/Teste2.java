@@ -10,6 +10,7 @@ public class Teste2 {
 		String texto = "Texto de teste.";
 		imprimir(texto);
 		System.out.println("Teste um");
+		
 	}
 
 }
