@@ -5,6 +5,7 @@ public class Teste2 {
 		// TODO Auto-generated method stub
 		System.out.println("Testando o merge sem conflito");
 
+		System.out.println("Teste um");
 	}
 
 }
